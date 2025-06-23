@@ -1,5 +1,5 @@
-# glowing-enigma
-Exploring the impact of long-term memory in generative AI
+# Long Term Memory Playground
+Exploring the impact of long-term memory in generative AI with Mem0 AI.
 
 This GitHub repository is a companion resource to the Medium article [Agent Memory: The underrated superpower of agentic apps](https://medium.com/mitb-for-all/agent-memory-the-underrated-superpower-of-agentic-apps-1c16fb47f435)
 
